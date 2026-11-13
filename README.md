@@ -19,7 +19,9 @@ Not covered yet: proposal, negotiation and objection handling, close planning, r
 
 ## Install
 
-**Claude (claude.ai / desktop):** zip a skill folder (for example `skills/post-call-follow-up`) so the folder with `SKILL.md` is the zip root, then upload it under Settings → Capabilities → Skills. Check Anthropic's current docs, as menus change.
+Ready-made zips, one per skill, are on the [latest release](https://github.com/volodymyrkhodonovych/claude-sales-skills/releases/latest) page.
+
+**Claude (claude.ai / desktop):** download the zip for the skill you want from the latest release and upload it under Settings → Capabilities → Skills. Check Anthropic's current docs, as menus change. To build a zip yourself, zip a skill folder (for example `skills/post-call-follow-up`) so the folder with `SKILL.md` is the zip root.
 
 **Claude Code:** copy the folders into `~/.claude/skills/` (personal) or `.claude/skills/` (project).
 
